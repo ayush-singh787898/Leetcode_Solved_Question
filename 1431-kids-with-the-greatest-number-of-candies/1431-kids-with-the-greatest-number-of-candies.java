@@ -6,7 +6,6 @@ class Solution {
         for(int i=0;i<candies.length;i++){
             max=Math.max(max,candies[i]);
         }
-        System.out.print(max);
         for(int i=0;i<candies.length;i++){
             if(candies[i]+extraCandies<max){
                 b.add(false);
