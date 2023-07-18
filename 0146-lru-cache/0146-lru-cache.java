@@ -1,42 +1,6 @@
-// class LRUCache {
-//         Stack<Integer> stk1=new Stack<>(capacity);
-//     public LRUCache(int capacity) {
-//         // Stack<Integer> stk=new Stack<>(capacity);
-//     }
-    
-//     public int get(int key) {
-//         while(!stk.isEmpty()){
-//             int s=stk.peek();
-//             if(s==key){
-//                 return key;
-//             }
-//         }
-//         return -1;
-//     }
-    
-//     public void put(int key, int value) {
-//         int count=0;
-//         if(stk1.isEmpty()){
-//             stk1.push(key,value);
-//              count=1;
-//         }
-        
-//         while(count<2){
-//             stk1.push(key,value);
-//             count++;
-            
-//         }
-//         stk1.peek();
-//         stk1.push(key,value);
-        
-//     }
-// }
 
 
-
-
-
-
+// Use hashMap 
 class LRUCache {
     LinkedHashMap<Integer, Integer> mem_Cache = new LinkedHashMap<>();
         int storCap;
@@ -71,9 +35,3 @@ class LRUCache {
 
 }
 
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache obj = new LRUCache(capacity);
- * int param_1 = obj.get(key);
- * obj.put(key,value);
- */
