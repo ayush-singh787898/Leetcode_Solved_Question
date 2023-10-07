@@ -1,13 +1,24 @@
 class Solution {
-    public static int fibonacci(int n){
+    public static int fibonacci(int n,int []dparr){
+        if(dparr[n]!=-1){
+            return dparr[n];
+        }
         if(n==0 || n==1){
             return n;
         }
-        int ans=fibonacci(n-1)+fibonacci(n-2);
-        return ans;
+        dparr[n]=fibonacci(n-1,dparr)+fibonacci(n-2,dparr);
+        return dparr[n];
     }
     public int fib(int n) {
-        return fibonacci(n);
+        int dparr[]=new int[n+1];
+        Arrays.fill(dparr,-1);
+        return fibonacci(n,dparr);
         
     }
 }
+
+
+
+
+
+
