@@ -1,28 +1,23 @@
 class Solution {
-    public static int arrays(int arr[],int i,int val){
-        for(int j=0;j<arr.length;j++){
-            if(i==j){
-                arr[i]=arr[i]+val;
-            }
-        }
-        int sum=0;
-        for(int j=0;j<arr.length;j++){
-            if(arr[j]%2==0){
-                sum+=arr[j];
-            }
-        }
-        return sum;
-    }
+
     public int[] sumEvenAfterQueries(int[] nums, int[][] queries) {
         int arr[]=new int[nums.length];
-        int val=0;
         for(int i=0;i<queries.length;i++){
-            // for(int j=i;j<queries[i].length-1;j++){
-                for(int j=0;j<1;j++){
-
-                val=arrays(nums,queries[i][1],queries[i][0]);
+            int val=queries[i][0];
+            int Oneth=queries[i][1];
+            for(int j=0;j<nums.length;j++){
+                if(Oneth==j){
+                    nums[j]+=val;
+                }
             }
-            arr[i]=val;
+            int even=0;
+            for(int k=0;k<nums.length;k++){
+                if(nums[k]%2==0){
+                    even+=nums[k];
+                }
+            }
+            arr[i]=even;
+            
         }
         return arr;
     }
