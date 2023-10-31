@@ -7,9 +7,7 @@ class Solution {
         }
         arr[0]=pref[0];
         for(int i=1;i<len;i++){
-            int x=pref[i-1];
-            int y=pref[i];
-            int xor=x^y;
+            int xor=pref[i-1]^pref[i];
             arr[i]=xor;
         }
         return arr;
