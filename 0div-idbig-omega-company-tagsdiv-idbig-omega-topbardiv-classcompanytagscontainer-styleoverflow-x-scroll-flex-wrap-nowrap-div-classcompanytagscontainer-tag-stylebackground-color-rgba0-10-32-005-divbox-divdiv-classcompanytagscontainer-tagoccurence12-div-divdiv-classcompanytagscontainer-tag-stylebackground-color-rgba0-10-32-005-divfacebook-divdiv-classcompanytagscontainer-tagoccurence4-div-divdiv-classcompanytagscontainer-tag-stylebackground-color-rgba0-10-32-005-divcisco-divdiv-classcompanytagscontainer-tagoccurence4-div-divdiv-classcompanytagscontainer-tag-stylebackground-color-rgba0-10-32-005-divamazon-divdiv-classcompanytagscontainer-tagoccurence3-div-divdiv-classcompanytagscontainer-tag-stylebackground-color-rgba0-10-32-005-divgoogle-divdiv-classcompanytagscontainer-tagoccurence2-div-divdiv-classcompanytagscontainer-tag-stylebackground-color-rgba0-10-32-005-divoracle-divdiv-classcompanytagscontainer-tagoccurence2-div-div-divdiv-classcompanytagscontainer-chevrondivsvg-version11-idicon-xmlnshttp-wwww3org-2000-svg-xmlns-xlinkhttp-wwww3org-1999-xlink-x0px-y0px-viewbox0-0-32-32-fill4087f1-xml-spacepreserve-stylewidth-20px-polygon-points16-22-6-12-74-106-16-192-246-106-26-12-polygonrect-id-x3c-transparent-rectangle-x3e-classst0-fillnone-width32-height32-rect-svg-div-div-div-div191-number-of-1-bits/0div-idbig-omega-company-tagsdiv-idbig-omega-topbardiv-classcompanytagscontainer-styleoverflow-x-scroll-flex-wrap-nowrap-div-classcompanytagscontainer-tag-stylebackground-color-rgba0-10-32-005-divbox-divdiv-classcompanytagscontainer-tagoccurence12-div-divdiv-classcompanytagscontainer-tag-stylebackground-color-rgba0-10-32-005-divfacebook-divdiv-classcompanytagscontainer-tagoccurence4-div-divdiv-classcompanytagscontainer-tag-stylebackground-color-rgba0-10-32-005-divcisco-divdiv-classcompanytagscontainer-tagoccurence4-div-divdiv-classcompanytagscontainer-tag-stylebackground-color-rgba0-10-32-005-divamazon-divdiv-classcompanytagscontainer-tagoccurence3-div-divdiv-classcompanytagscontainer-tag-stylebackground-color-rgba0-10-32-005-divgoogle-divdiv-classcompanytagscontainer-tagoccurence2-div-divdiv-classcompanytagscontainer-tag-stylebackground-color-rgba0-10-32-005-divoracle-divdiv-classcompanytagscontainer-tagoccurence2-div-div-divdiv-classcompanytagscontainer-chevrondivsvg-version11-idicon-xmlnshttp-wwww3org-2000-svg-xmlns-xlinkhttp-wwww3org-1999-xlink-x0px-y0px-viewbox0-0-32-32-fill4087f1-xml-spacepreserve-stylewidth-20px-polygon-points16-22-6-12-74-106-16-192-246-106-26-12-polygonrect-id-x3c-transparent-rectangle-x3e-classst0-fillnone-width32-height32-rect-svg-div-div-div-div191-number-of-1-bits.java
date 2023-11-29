@@ -1,5 +1,5 @@
 public class Solution {
-    // you need to treat n as an unsigned value
+    // here n is treated as an unsigned value
     public int hammingWeight(int n) {
         int count=0;
         while(n!=0){
@@ -7,5 +7,6 @@ public class Solution {
             count++;
         }
         return count;
+      
     }
 }
