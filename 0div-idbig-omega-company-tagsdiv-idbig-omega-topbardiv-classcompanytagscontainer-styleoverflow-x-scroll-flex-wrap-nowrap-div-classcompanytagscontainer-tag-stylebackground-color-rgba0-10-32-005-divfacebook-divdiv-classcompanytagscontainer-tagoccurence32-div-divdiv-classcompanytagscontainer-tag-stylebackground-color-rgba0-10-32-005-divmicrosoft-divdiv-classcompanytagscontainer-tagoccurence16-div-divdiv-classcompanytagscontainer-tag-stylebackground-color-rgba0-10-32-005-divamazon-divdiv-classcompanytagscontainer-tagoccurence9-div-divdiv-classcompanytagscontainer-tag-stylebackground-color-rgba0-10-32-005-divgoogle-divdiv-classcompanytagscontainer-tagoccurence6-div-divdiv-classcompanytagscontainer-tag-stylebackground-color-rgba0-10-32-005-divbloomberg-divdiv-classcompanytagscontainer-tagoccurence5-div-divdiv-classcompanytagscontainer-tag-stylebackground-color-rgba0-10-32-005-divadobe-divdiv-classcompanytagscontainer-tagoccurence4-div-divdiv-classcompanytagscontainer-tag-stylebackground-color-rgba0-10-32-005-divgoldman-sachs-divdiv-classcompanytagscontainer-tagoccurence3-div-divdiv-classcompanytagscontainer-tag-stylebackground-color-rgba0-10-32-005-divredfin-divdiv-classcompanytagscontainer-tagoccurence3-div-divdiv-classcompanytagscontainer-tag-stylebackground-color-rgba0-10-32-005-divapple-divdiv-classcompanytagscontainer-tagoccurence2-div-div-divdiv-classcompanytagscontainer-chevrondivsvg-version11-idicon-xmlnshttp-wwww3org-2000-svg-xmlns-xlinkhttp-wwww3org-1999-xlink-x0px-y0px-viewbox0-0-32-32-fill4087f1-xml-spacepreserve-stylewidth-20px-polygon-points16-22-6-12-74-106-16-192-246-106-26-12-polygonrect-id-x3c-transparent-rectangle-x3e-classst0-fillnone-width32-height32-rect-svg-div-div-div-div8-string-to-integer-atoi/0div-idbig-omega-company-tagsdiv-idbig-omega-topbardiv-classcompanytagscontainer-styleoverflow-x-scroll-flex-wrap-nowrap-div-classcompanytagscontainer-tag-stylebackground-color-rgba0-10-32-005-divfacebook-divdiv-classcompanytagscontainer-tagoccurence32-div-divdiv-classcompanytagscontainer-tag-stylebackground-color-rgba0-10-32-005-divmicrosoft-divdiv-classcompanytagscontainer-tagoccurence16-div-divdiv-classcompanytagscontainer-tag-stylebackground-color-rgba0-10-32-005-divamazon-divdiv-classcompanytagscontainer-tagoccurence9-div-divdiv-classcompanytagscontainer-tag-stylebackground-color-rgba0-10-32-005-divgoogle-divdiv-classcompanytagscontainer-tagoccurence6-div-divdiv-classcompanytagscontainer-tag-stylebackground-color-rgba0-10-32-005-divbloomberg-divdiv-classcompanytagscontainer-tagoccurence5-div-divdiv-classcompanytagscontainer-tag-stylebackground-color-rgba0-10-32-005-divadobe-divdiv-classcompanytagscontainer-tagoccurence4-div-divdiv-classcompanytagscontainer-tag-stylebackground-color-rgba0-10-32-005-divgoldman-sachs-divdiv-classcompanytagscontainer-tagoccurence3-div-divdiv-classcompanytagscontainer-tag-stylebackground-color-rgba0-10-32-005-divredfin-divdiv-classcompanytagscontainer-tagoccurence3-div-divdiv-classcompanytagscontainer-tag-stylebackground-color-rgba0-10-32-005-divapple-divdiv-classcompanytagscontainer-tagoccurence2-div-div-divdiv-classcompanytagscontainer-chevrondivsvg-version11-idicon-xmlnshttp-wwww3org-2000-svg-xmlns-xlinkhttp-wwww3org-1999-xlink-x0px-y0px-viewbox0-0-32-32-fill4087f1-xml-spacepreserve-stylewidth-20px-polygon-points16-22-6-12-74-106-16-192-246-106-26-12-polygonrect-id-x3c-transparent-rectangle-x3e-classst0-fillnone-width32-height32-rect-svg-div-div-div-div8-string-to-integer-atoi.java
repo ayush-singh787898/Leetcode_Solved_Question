@@ -22,7 +22,6 @@ class Solution {
             if (res > (Integer.MAX_VALUE - digit) / 10) {
                 return (neg ==false ) ? Integer.MAX_VALUE : Integer.MIN_VALUE;
             }
-
             res = res * 10 + digit;
             i++;
         }
