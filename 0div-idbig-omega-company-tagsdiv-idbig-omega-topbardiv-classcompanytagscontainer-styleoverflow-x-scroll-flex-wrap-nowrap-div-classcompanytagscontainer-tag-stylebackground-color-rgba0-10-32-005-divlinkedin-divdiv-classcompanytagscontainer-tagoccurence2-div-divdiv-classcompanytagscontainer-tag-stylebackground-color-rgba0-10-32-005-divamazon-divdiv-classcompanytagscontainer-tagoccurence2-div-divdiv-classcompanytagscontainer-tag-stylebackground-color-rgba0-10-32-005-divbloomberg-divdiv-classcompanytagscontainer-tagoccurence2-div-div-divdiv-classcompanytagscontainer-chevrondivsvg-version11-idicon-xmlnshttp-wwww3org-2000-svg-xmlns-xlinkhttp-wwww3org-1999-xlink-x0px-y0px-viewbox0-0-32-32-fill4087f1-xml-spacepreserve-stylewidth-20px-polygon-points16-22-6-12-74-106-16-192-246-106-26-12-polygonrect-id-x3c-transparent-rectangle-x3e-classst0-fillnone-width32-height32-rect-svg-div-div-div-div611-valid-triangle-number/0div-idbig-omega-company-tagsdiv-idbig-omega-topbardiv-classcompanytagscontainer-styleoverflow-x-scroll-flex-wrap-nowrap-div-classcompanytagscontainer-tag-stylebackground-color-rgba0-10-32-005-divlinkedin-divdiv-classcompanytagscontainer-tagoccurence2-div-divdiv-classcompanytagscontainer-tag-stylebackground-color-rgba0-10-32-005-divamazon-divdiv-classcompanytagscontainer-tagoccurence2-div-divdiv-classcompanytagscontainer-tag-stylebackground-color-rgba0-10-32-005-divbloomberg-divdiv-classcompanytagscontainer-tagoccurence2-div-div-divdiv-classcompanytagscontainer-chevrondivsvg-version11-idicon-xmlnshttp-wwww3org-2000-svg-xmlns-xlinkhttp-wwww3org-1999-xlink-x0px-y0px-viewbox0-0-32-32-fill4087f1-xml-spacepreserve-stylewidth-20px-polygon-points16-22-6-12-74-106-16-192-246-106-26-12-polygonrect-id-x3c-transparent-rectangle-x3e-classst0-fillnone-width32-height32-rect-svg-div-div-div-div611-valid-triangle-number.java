@@ -6,7 +6,6 @@ class Solution {
             for(int j=i+1;j<nums.length-1;j++){
                 for(int k=j+1;k<nums.length;k++){
                     if(nums[i]+nums[j]<=nums[k]){
-                        // count=count;
                         continue;
                     }
                     else{
