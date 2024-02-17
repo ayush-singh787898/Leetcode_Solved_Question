@@ -5,7 +5,9 @@ class Solution {
         for(int i=0;i<heights.length-1;i++){                
             int diff=heights[i+1]-heights[i];
             if(diff>0){
-                pq.add(-diff);
+                // pq.add(-diff);
+                pq.offer(-diff);
+
             }
             if(pq.size()>ladders){
                 bricks+=pq.poll();
