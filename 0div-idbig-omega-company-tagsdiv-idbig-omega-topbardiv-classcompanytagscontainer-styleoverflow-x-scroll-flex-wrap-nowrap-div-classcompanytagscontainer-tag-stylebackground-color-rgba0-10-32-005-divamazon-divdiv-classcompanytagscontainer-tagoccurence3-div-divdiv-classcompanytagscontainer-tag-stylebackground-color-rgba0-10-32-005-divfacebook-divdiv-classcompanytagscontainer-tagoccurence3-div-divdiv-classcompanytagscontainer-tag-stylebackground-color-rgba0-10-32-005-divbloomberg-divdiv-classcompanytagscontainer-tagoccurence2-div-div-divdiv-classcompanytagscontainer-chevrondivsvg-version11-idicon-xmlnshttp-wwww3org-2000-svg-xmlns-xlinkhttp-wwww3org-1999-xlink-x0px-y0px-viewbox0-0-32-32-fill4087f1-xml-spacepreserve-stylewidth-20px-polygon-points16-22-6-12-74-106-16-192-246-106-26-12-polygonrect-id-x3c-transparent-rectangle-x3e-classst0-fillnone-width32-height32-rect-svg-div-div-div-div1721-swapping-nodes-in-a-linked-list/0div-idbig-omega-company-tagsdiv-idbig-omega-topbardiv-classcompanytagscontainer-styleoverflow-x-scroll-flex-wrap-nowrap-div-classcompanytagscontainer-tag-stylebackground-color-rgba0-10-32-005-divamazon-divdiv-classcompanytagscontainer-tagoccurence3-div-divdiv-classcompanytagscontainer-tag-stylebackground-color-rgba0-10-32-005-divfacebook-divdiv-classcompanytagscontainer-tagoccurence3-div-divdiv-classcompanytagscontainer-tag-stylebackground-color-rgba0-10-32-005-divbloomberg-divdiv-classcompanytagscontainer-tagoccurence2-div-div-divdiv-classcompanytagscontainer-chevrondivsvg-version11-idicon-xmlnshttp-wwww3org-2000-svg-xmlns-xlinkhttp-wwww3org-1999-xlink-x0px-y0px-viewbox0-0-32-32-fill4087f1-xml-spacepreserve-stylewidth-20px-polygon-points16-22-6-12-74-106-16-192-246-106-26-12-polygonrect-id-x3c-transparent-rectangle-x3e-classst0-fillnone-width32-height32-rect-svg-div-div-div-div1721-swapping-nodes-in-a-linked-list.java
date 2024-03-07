@@ -10,56 +10,19 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        if(head==null){
-            return head;
+        ListNode pt1 = head, pt2 = head;
+        for (int i = 1; i < k; i++) {
+            pt1 = pt1.next;
         }
-        int sz = 1;
-        ListNode temp = head;
-        ListNode temp2 = head;
-        int elm1 = 0;
-        int elm2 = 0;
-
-        // find kth element from start
-        while (temp != null) {
-            if (sz == k) {
-                elm1 = temp.val;
-            }
-            temp = temp.next;
-            sz++;
+        ListNode first_k = pt1;
+        int x = first_k.val;
+        while (pt1.next != null) {
+            pt1 = pt1.next;
+            pt2 = pt2.next;
         }
-
-        int i = 1;
-        // find kth element from end
-        while (temp2 != null) {
-            if (i == sz - k) {
-                elm2 = temp2.val;
-            }
-            temp2 = temp2.next;
-            i++;
-        }
-
-        // swap kth element from start and end
-        temp = head;
-        int strtInx = 1;
-
-        // put end value at start kth index.
-        while (strtInx < k) {
-            temp = temp.next;
-            strtInx++;
-        }
-        temp.val = elm2;
-
-        // put start value at kth end index.
-        temp = head;
-        int endInx = 1;
-        while (endInx < sz - k) {
-            temp = temp.next;
-            endInx++;
-        }
-        temp.val = elm1;
-        
-        // System.out.println("elm1 "+elm1+" elm2 "+elm2);
-
+        first_k.val = pt2.val;
+        pt2.val = x;
         return head;
     }
 }
+
