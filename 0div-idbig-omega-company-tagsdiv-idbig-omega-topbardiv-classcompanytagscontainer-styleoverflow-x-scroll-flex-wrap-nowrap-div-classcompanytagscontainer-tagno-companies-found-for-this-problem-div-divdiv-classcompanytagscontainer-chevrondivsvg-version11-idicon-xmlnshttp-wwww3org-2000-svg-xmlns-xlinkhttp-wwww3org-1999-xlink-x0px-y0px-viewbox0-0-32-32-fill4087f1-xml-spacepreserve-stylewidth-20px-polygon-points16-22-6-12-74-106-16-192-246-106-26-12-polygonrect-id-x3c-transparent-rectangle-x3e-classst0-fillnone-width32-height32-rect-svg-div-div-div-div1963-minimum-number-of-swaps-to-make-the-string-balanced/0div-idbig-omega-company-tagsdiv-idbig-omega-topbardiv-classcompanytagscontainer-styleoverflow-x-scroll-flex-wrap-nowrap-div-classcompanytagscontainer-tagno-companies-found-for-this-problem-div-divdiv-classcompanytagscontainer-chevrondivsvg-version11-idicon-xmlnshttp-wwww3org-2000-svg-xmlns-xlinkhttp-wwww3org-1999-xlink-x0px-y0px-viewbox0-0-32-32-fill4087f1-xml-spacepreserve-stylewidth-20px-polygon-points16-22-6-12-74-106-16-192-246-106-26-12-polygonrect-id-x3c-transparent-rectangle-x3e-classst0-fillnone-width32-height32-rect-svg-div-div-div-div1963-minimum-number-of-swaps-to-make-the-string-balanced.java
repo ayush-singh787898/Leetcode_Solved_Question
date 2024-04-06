@@ -1,21 +1,22 @@
 class Solution {
     public int minSwaps(String s) {
-        int open=0;
-        int close=0;
+        Stack<Character>stk=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(ch=='['){
-                open++;
+                stk.push(ch);
             }
             else{
-                if(open<=0){
-                    close++;
+                if(stk.isEmpty() || stk.peek()==']'){
+                    stk.push(ch);
                 }
                 else{
-                    open--;
+                    stk.pop();
                 }
             }
         }
-        return (close+1)/2;
+        int totalBracket=stk.size();
+        int closedBracket=totalBracket/2;
+        return (closedBracket+1)/2;     // +1 is used to handle odd no. of closed bracket.
     }
 }
