@@ -1,20 +1,33 @@
 class Solution {
-    public static int sol(int n,int []dp){
-        if(n==0){
-            return 0;
-        }
-        if(n==1){
-            return 1;
-        }
-        if(dp[n]!=-1){
+    
+    
+//     Memoizatin:- Top down approach
+    private int[]dp=new int[31];
+    public int memoize(int n){
+
+        if(dp[n]!=0){
             return dp[n];
         }
-        return sol(n-1,dp)+sol(n-2,dp);
+        if(n<3){
+            return 1;
+        }
+        else{
+            dp[n]=memoize(n-1)+memoize(n-2);
+        }
+        return memoize(n);
         
     }
     public int fib(int n) {
-        int dp[]=new int[n+1];
-        Arrays.fill(dp,-1);
-        return sol(n,dp);
+        if(n<=1){
+            return n;
+        }
+        if(n==2){
+            return 1;
+            
+        }
+        memoize(n);
+        return dp[n];
     }
+        
+        
 }
