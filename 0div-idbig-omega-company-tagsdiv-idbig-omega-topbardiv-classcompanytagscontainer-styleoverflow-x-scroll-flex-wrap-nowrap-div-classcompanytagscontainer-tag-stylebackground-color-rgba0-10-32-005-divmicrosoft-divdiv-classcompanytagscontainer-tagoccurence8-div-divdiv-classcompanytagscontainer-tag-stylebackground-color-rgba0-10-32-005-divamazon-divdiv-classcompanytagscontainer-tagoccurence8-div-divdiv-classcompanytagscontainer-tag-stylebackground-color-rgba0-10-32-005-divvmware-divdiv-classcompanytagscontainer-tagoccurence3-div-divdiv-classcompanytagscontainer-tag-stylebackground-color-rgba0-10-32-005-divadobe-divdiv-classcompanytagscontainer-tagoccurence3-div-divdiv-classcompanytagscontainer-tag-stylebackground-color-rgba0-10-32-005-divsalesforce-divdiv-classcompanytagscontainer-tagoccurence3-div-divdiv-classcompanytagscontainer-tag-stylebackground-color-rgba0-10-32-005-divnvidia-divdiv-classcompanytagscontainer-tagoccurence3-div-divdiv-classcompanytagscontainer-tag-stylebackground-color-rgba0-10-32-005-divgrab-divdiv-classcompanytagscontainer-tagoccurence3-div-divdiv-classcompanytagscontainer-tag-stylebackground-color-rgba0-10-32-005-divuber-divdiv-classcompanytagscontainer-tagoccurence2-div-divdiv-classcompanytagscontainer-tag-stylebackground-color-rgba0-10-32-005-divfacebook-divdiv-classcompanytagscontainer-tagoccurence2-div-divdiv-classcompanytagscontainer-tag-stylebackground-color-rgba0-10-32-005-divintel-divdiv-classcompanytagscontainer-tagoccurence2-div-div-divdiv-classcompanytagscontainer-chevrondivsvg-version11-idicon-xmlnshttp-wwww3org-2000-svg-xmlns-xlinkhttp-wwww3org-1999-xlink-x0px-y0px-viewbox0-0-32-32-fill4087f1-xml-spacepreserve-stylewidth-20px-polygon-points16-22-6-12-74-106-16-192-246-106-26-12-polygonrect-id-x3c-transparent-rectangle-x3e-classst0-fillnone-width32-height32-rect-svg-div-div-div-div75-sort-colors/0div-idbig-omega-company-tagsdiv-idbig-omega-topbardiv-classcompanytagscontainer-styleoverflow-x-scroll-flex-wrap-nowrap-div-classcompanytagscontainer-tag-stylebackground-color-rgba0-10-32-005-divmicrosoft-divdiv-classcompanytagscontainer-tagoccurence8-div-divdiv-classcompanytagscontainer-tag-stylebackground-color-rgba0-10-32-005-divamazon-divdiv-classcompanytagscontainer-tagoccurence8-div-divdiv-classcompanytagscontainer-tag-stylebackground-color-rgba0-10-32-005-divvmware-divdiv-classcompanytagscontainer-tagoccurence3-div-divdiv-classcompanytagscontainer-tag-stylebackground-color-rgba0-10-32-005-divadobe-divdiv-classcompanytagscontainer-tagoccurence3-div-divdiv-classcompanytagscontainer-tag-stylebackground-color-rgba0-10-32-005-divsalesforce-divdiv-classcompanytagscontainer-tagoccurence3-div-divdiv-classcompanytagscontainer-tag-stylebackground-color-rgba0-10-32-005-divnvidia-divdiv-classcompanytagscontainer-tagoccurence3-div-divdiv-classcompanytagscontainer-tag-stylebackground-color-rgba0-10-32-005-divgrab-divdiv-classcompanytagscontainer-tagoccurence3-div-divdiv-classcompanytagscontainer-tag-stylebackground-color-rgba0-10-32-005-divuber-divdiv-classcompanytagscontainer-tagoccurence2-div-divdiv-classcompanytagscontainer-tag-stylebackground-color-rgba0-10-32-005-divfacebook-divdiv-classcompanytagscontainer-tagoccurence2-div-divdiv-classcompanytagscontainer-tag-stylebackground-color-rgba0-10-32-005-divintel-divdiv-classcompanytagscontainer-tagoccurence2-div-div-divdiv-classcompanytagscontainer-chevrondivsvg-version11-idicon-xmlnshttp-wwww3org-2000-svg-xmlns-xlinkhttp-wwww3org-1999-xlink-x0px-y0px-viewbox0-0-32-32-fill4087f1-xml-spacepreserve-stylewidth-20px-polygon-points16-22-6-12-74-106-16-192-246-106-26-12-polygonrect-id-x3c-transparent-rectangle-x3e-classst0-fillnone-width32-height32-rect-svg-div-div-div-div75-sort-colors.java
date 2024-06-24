@@ -1,15 +1,9 @@
 
 class Solution {
-    public void swap1(int[] nums, int z, int i){
+    public void swap(int[] nums, int z, int i){
         int temp = nums[i];
         nums[i] = nums[z];
         nums[z] = temp;
-    }
-
-    public void swap2(int[] nums, int scnd, int i){
-        int temp = nums[i];
-        nums[i] = nums[scnd];
-        nums[scnd] = temp;
     }
 
     public void sortColors(int[] nums) {
@@ -19,11 +13,11 @@ class Solution {
         
         while (i <= scnd) {
             if (nums[i] == 0) {
-                swap1(nums, z, i);
+                swap(nums, z, i);
                 z++;
                 i++;
             } else if (nums[i] == 2) {
-                swap2(nums, scnd, i);
+                swap(nums, scnd, i);
                 scnd--;
             } else {
                 i++;
