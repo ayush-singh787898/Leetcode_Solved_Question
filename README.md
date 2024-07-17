@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -34,9 +35,14 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
