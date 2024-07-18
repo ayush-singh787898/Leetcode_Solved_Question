@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
@@ -59,6 +60,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
