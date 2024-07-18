@@ -1,37 +1,34 @@
 class Solution {
-    public static int countDistinct(String s, String t, int i, int j, int dp[][]) {
-        // If all characters of t are found, return 1
-        if (j < 0) {
-            return 1;
-        }
-        // If all characters of s are exhausted and t is not fully matched, return 0
-        if (i < 0) {
-            return 0;
-        }
-        // If the value is already computed, return it
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-        // If characters match, move both pointers and also only move the s pointer
-        if (s.charAt(i) == t.charAt(j)) {
-            int countWithCurrentChar = countDistinct(s, t, i - 1, j - 1, dp); // Case where characters match
-            int countWithoutCurrentChar = countDistinct(s, t, i - 1, j, dp); // Case where character from s is skipped
-            dp[i][j] = countWithCurrentChar + countWithoutCurrentChar;
-        } else {
-            // If characters don't match, only move the s pointer
-            dp[i][j] = countDistinct(s, t, i - 1, j, dp);
-        }
-        return dp[i][j];
-    }
-
     public int numDistinct(String s, String t) {
-        int dp[][] = new int[s.length()][t.length()];
-        // Initialize dp array with -1
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < t.length(); j++) {
-                dp[i][j] = -1;
+        int dp[][] = new int[s.length() + 1][t.length() + 1];
+        
+        // Initialize the first column: dp[i][0] = 1 for all i
+        // An empty string is a subsequence of any string
+        for (int i = 0; i <= s.length(); i++) {
+            dp[i][0] = 1;
+        }
+        
+        // Initialize the first row: dp[0][j] = 0 for all j > 0
+        // An empty string cannot contain any non-empty string as a subsequence
+        for (int j = 1; j <= t.length(); j++) {
+            dp[0][j] = 0;
+        }
+        
+        // Fill the dp array
+        for (int i = 1; i <= s.length(); i++) {
+            for (int j = 1; j <= t.length(); j++) {
+                if (s.charAt(i - 1) == t.charAt(j - 1)) {
+                    // If characters match, we consider two cases:
+                    int matchCount = dp[i - 1][j - 1]; // Case where both characters are included in the subsequence
+                    int skipCount = dp[i - 1][j];      // Case where the character from s is skipped
+                    dp[i][j] = matchCount + skipCount; // Sum of both cases
+                } else {
+                    // If characters don't match, we skip the current character of s
+                    dp[i][j] = dp[i - 1][j];
+                }
             }
         }
-        return countDistinct(s, t, s.length() - 1, t.length() - 1, dp);
+        
+        return dp[s.length()][t.length()];
     }
 }
