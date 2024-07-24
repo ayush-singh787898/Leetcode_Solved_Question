@@ -1,49 +1,34 @@
+
 class Solution {
-    // Helper method to compute the maximum profit using recursion and memoization
-    public static int buySell(int inx, int buy, int[] value, int n, int[][] dp) {
-        // Base case: If we have processed all days, no profit can be made
-        if (inx == n) {
-            return 0;
-        }
-
-        // If the state has been computed before, return the stored result
-        if (dp[inx][buy] != -1) {
-            return dp[inx][buy];
-        }
-
-        // Variable to store the maximum profit
-        int profit;
-
-        // If the current action is to buy
-        if (buy == 1) {
-            // Either buy the stock and decrease the price from profit, or skip buying
-            profit = Math.max(-value[inx] + buySell(inx + 1, 0, value, n, dp), 
-                              0 + buySell(inx + 1, 1, value, n, dp));
-        } else {
-            // If the current action is to sell
-            // Either sell the stock and add the price to profit, or skip selling
-            profit = Math.max(value[inx] + buySell(inx + 1, 1, value, n, dp), 
-                              0 + buySell(inx + 1, 0, value, n, dp));
-        }
-
-        // Store the computed result in dp array and return it
-        return dp[inx][buy] = profit;
-    }
-
-    // Main method to calculate the maximum profit
     public int maxProfit(int[] prices) {
-        int n = prices.length; // Get the number of days
+        int n = prices.length; 
 
-        // Create a dp array of size n x 2 to store computed states
-        int[][] dp = new int[n][2];
+        // Create a dp array of size n+1 x 2 to store computed states
+        int[][] dp = new int[n + 1][2];
         
-        // Initialize dp array with -1 to indicate uncomputed states
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = -1;
-            dp[i][1] = -1;
+        // Initialize dp array for base cases
+        // If there are no days left, profit is 0 whether we can buy or not
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = 0;
+            dp[i][1] = 0;
         }
 
-        // Start the recursive computation from day 0 with the option to buy
-        return buySell(0, 1, prices, n, dp);
+        // Iterate over days from the last day to the first day
+        for (int inx = n - 1; inx >= 0; inx--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                int profit = 0;
+                if (buy == 1) {
+                    // Option to buy or skip buying
+                    profit = Math.max(-prices[inx] + dp[inx + 1][0], 0 + dp[inx + 1][1]);
+                } else {
+                    // Option to sell or skip selling
+                    profit = Math.max(prices[inx] + dp[inx + 1][1], 0 + dp[inx + 1][0]);
+                }
+                dp[inx][buy] = profit; // Store the computed profit in dp array
+            }
+        }
+
+        // The result is the maximum profit we can achieve starting from day 0 with the option to buy
+        return dp[0][1];
     }
 }
