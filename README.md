@@ -51,6 +51,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -74,6 +75,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
