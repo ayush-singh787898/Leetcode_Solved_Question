@@ -1,18 +1,35 @@
 class Solution {
+
     public int lengthOfLIS(int[] nums) {
-        int n=nums.length;
-        int dp[][]=new int[n+1][n+1];
-        for(int i=n-1;i>=0;i--){
-            for(int prev=i;prev>=-1;prev--){
-                int len=dp[i+1][prev+1];
-                if(prev==-1 || nums[i]>nums[prev]){
-                    len=Math.max(len,1+dp[i+1][i+1]);
-                }
-                dp[i][prev+1]=len;
+        List<Integer>lst=new ArrayList<>();
+        lst.add(nums[0]);
+        int len=1;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]>lst.get(lst.size()-1)){
+                lst.add(nums[i]);
+                len++;
             }
-
-        }   
-     return dp[0][0];
-
+            else{
+                int indx=lowerBound(lst,nums[i]);  // apply binary search to insert the element at their right position. 
+                lst.set(indx,nums[i]);
+            }
+        }
+        return len;
+    }
+    
+    
+    public static int lowerBound(List<Integer>lst,int key){
+        int low=0;
+        int high=lst.size();
+        while(low<high){
+            int mid=(low+high)/2;
+            if(lst.get(mid)<key){     // Search right half
+                low=mid+1;
+            }
+            else{           // Search left half
+                high=mid;
+            }
+        }
+        return low;
     }
 }
