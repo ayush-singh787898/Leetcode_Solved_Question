@@ -93,4 +93,20 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
