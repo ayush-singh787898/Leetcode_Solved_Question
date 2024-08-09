@@ -1,18 +1,42 @@
+import java.util.*;
+
 class Solution {
+
     public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
-        List<int[]>list=new ArrayList<>();
-        int[]current=intervals[0];
-        list.add(current);
-        for(int[]next:intervals){
-            if(current[1]>=next[0]){
-                current[1]=Math.max(current[1],next[1]);
+        int n = intervals.length; // size of the array
+
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+
+        List<List<Integer>> ans = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) { // Select an interval
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+
+            // Skip all the merged intervals
+            if (!ans.isEmpty() && end <= ans.get(ans.size() - 1).get(1)) {
+                continue;
             }
-            else{
-                current=next;
-                list.add(current);
+
+            // Check the rest of the intervals
+            for (int j = i + 1; j < n; j++) {
+                if (intervals[j][0] <= end) {
+                    end = Math.max(end, intervals[j][1]);
+                } else {
+                    break;
+                }
             }
+            ans.add(Arrays.asList(start, end));
         }
-        return list.toArray(new int[list.size()][]);
+
+        // Convert the list of lists to a 2D array
+        int[][] result = new int[ans.size()][2];
+        for (int i = 0; i < ans.size(); i++) {
+            result[i][0] = ans.get(i).get(0);
+            result[i][1] = ans.get(i).get(1);
+        }
+
+        return result;
     }
 }
+
