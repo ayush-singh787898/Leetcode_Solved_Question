@@ -36,6 +36,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
+| [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
+| [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
@@ -143,4 +145,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
