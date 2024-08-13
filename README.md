@@ -39,12 +39,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
