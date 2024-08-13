@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0733-flood-fill) |
+| [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
