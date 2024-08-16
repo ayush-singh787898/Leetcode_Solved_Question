@@ -7,6 +7,7 @@ class Solution {
             if(hm.containsKey(temp)){
                 arr[0]=hm.get(temp);        //  index of particular element.
                 arr[1]=i;    // current index
+                return arr;
             }
             else{
                 hm.put(nums[i],i);      // element , index is inserted
