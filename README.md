@@ -18,6 +18,7 @@
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0125-valid-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0287-find-the-duplicate-number) |
