@@ -1,7 +1,6 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int arr[]=new int[nums.length];
-        boolean zero=false;
         int count=0;
         int prod=1;
         for(int i=0;i<nums.length;i++){
@@ -9,7 +8,6 @@ class Solution {
                 prod*=nums[i];
             }
             if(nums[i]==0){
-                zero=true;
                 count++;
             }
         }
