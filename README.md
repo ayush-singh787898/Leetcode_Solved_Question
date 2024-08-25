@@ -72,6 +72,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -114,12 +115,14 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
+| [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Binary Search
 |  |
 | ------- |
