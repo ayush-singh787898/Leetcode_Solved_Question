@@ -73,6 +73,7 @@
 | [1036-rotting-oranges](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@
 | [0733-flood-fill](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Binary Search
 |  |
 | ------- |
