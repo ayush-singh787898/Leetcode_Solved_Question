@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -67,6 +68,7 @@
 | [0238-product-of-array-except-self](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0542-01-matrix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0733-flood-fill) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
@@ -163,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -172,4 +175,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
