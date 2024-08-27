@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -24,10 +25,12 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -183,4 +186,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
