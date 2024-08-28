@@ -27,6 +27,7 @@
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
 ## Memoization
 |  |
 | ------- |
