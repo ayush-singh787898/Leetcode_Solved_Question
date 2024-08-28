@@ -4,13 +4,9 @@ class Solution {
         for(int i=num.length()-1;i>=0;i--){
             int ch=num.charAt(i)-'0';
             if(ch%2!=0){
-                while(i>=0){
-                    ch=num.charAt(i)-'0';
-                    res.append(ch);
-                    i--;
-                }
+                return num.substring(0,i+1);
             }
         }
-        return res.reverse().toString();
+        return "";
     }
 }
