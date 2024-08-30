@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -24,6 +25,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
+| [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -55,6 +57,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0287-find-the-duplicate-number) |
+| [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -125,6 +128,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
