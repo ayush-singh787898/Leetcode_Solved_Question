@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -74,6 +75,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -201,5 +204,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
