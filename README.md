@@ -27,6 +27,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0812-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -210,4 +211,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
