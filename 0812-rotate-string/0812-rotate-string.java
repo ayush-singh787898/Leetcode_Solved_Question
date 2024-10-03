@@ -4,9 +4,6 @@ class Solution {
             return false;
         }
         s+=s;
-        if(s.indexOf(goal)>=0){
-            return true;
-        }
-        return false;
+        return s.contains(goal) ;
     }
 }
