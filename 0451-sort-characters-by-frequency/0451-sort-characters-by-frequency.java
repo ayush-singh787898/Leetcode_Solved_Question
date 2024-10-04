@@ -21,6 +21,7 @@ class Solution {
         for (Map.Entry<Character, Integer> entry : entryList) {
             for (int i = 0; i < entry.getValue(); i++) {
                 // str.append(entry.getKey());
+                str+=entry.getKey();
             }
         }
         
