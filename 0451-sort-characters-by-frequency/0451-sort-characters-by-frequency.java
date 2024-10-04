@@ -16,10 +16,11 @@ class Solution {
         Collections.sort(entryList, (a, b) -> b.getValue() - a.getValue());
         
         // Build the sorted string
-        StringBuilder str = new StringBuilder();
+        // StringBuilder str = new StringBuilder();
+        String str="";
         for (Map.Entry<Character, Integer> entry : entryList) {
             for (int i = 0; i < entry.getValue(); i++) {
-                str.append(entry.getKey());
+                // str.append(entry.getKey());
             }
         }
         
