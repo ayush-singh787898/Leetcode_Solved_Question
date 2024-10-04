@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -26,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
@@ -145,6 +147,7 @@
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -218,4 +222,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
