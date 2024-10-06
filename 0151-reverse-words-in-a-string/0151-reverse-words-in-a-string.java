@@ -1,23 +1,15 @@
 class Solution {
     public String reverseWords(String s) {
-        // Trim the string and replace multiple spaces with a single space
-        s = s.trim().replaceAll("\\s+", " ");
-        
-        // Reverse the entire string
-        StringBuilder sb = new StringBuilder(s).reverse();
-        
-        // Split the reversed string by spaces
-        String[] words = sb.toString().split(" ");
-        
-        // Reverse each word and join them with a space
-        sb.setLength(0); // Clear the StringBuilder for reuse
-        for (int i = 0; i < words.length; i++) {
-            sb.append(new StringBuilder(words[i]).reverse());
-            if (i < words.length - 1) {
-                sb.append(" ");
-            }
+        s=s.trim();     // remove first and last space 
+        String []str=s.split("\\s+");       // convert string to string array and also replace multiple space with single space.
+        System.out.println(Arrays.toString(str));
+        String res="";
+        for(int i=str.length-1;i>0;i--){
+            res+=str[i];
+            res+=" ";   
         }
-        
-        return sb.toString();
+        res+=str[0];
+        return res;
+
     }
 }
