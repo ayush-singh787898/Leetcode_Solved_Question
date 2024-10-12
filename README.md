@@ -52,6 +52,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -59,6 +60,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
