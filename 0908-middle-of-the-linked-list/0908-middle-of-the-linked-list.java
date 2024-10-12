@@ -29,7 +29,7 @@ class Solution {
         }
 
         ListNode res=temp.next;
-        temp.next=null;
+        // temp.next=null;
         head=res;
         return head;
     }
