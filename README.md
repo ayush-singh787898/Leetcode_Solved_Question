@@ -41,6 +41,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
+| [3195-separate-black-and-white-balls](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
+| [3195-separate-black-and-white-balls](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
+| [3195-separate-black-and-white-balls](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
