@@ -57,6 +57,7 @@
 | [0206-reverse-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3195-separate-black-and-white-balls](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
