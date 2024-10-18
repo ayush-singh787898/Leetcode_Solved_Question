@@ -1,98 +1,35 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
-
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int sum=0;
-        ListNode x=l1;
-        ListNode y=l2;
-        ListNode newNode=new ListNode(0);
-        ListNode z=newNode;
-        int carry=0;
-        if(x==null && y==null){
-            return null;
+        // Dummy node to store the result list
+        ListNode addedNode = new ListNode(-1); 
+        ListNode temp = addedNode; // Pointer to traverse the result list
+        int carry = 0; // Carry for sum of digits
+
+        // Loop until both lists are exhausted
+        while (l1 != null || l2 != null) {
+            // Get the values from the current nodes of both lists, or 0 if null
+            int x = (l1 != null) ? l1.val : 0;
+            int y = (l2 != null) ? l2.val : 0;
+            
+            // Calculate the sum of current digits and carry
+            int sum = x + y + carry;
+            carry = sum / 10; // Update carry for next iteration
+            
+            // Create a new node with the digit value (sum % 10)
+            temp.next = new ListNode(sum % 10);
+            temp = temp.next; // Move the pointer forward
+            
+            // Move to the next nodes in both lists, if they exist
+            if (l1 != null) l1 = l1.next;
+            if (l2 != null) l2 = l2.next;
         }
-        
-        while(x!=null || y!=null){
-            sum+=carry;
-            if(x!=null){
-                sum+=x.val;
-                x=x.next;
-                
-            }
-            if(y!=null){
-                sum+=y.val;
-                y=y.next;
-            }
-            z.next=new ListNode(sum%10);
-            z=z.next;
-            sum=sum/10;
-        
+
+        // If there is still a carry after the final addition, add a new node
+        if (carry != 0) {
+            temp.next = new ListNode(carry);
         }
-        if(sum==1){
-            z.next=new ListNode(sum);
-        }
-        return newNode.next;
+
+        // Return the result list starting from the first valid node (skip the dummy node)
+        return addedNode.next;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// class Solution {
-//     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-//         int carry =0;
-        // ListNode newHead = new ListNode(0);
-//         ListNode p1 = l1, p2 = l2, p3=newHead;
-//         while(p1 != null || p2 != null)
-//         {
-//             if(p1 != null)
-//             {
-//                 carry += p1.val;
-//                 p1 = p1.next;
-//             }
-//             if(p2 != null)
-//             {
-//                 carry += p2.val;
-//                 p2 = p2.next;
-//             }
-//             p3.next = new ListNode(carry%10);
-//             p3 = p3.next;
-//             carry /= 10;
-//         }
-//         if(carry==1)
-//             p3.next=new ListNode(1);
-//         return newHead.next;
-//     }
-// }
