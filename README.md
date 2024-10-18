@@ -50,6 +50,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
@@ -61,6 +62,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0206-reverse-linked-list) |
@@ -205,6 +207,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
