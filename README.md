@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -257,9 +258,11 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
