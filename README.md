@@ -24,6 +24,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0115-distinct-subsequences) |
@@ -257,6 +258,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
