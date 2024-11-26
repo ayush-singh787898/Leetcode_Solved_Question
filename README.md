@@ -73,6 +73,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
@@ -92,6 +93,7 @@
 | [0027-remove-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
@@ -138,6 +140,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0115-distinct-subsequences) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -267,4 +271,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
