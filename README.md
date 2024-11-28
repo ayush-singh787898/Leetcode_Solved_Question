@@ -110,6 +110,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0542-01-matrix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1036-rotting-oranges) |
@@ -267,6 +268,7 @@
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
@@ -279,4 +281,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
