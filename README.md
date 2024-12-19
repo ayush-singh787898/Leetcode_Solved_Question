@@ -97,6 +97,7 @@
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0402-remove-k-digits) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
