@@ -31,6 +31,7 @@
 | [0125-valid-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
@@ -268,6 +270,7 @@
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
