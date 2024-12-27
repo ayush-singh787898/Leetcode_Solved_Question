@@ -117,6 +117,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -160,6 +161,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
