@@ -40,6 +40,7 @@
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
@@ -120,6 +121,7 @@
 | [1063-best-sightseeing-pair](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -164,6 +166,7 @@
 | [1063-best-sightseeing-pair](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Greedy
 |  |
 | ------- |
