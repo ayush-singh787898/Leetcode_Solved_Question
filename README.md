@@ -44,6 +44,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2032-largest-odd-number-in-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3195-separate-black-and-white-balls](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -122,6 +123,7 @@
 | [1073-number-of-enclaves](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1073-number-of-enclaves) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
