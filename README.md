@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
@@ -99,6 +100,7 @@
 | [0042-trapping-rain-water](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0088-merge-sorted-array) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0200-number-of-islands) |
