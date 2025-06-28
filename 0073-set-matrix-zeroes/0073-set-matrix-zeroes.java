@@ -1,29 +1,34 @@
-
-
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        boolean[] rows = new boolean[m];
-        boolean[] cols = new boolean[n];
+        int arr[][]=new int[matrix.length][matrix[0].length];
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                arr[i][j]=matrix[i][j];
+            }
+        }
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                if(matrix[i][j]==0){
 
-        // First pass to find all rows and columns that need to be zeroed
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    rows[i] = true;
-                    cols[j] = true;
-                }
+                    // set col value to zero but in same row 
+                    for(int k=0;k<matrix[0].length;k++){
+                        arr[i][k]=0;
+                    }
+
+                    // set row value to zero but in same col
+                    for(int k=0;k<matrix.length;k++){
+                        arr[k][j]=0;
+                    }
+                }   
             }
         }
 
-        // Second pass to set the rows and columns to zero
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (rows[i] || cols[j]) {
-                    matrix[i][j] = 0;
-                }
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                matrix[i][j]=arr[i][j];
             }
         }
     }
 }
+
+
