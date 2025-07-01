@@ -16,6 +16,7 @@
 | [0242-valid-anagram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0768-partition-labels) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
@@ -118,6 +120,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0380-insert-delete-getrandom-o1) |
 | [0542-01-matrix](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0943-sum-of-subarray-minimums) |
@@ -194,6 +197,7 @@
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1019-squares-of-a-sorted-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -263,6 +267,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/0594-longest-harmonious-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ayush-singh787898/Leetcode_Solved_Question/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
